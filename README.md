@@ -1,2 +1,2 @@
 # IPT2CaseStudy
-Domnguez/Lintuan
+Domnguez / Lintuan
